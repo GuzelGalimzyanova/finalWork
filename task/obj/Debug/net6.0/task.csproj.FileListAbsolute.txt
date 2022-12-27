@@ -1,0 +1,15 @@
+/Users/guzel/Desktop/lesson/task/bin/Debug/net6.0/task
+/Users/guzel/Desktop/lesson/task/bin/Debug/net6.0/task.deps.json
+/Users/guzel/Desktop/lesson/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/guzel/Desktop/lesson/task/bin/Debug/net6.0/task.dll
+/Users/guzel/Desktop/lesson/task/bin/Debug/net6.0/task.pdb
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.dll
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/refint/task.dll
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.pdb
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/guzel/Desktop/lesson/task/obj/Debug/net6.0/ref/task.dll
